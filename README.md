@@ -65,7 +65,7 @@ node src/cli.js remove --port 9222
 
 `apply`, `watch` and `remove` support optional `--target ID`; otherwise they handle all eligible chart tabs. Target IDs are session-specific CDP metadata, so obtain them locally if needed; this tool does not print them. Run one skinning session per app. Ctrl+C/SIGTERM requests guarded removal of styles from charts touched by that watch session. If the endpoint disappears, cleanup reports its limits and recommends `remove` or reload. Forced process termination cannot guarantee cleanup. Stopping this tool leaves the app and its debugging endpoint running until you fully quit it yourself.
 
-Copy either file in [skins](skins/) and edit its seven colors. See [SKINS.md](SKINS.md) and [skin.schema.json](skin.schema.json). Skins are strict JSON palettes; arbitrary CSS, URLs and JavaScript are rejected.
+Copy any file in [skins](skins/) and edit its seven colors. See [SKINS.md](SKINS.md) and [skin.schema.json](skin.schema.json). Skins are strict JSON palettes; arbitrary CSS, URLs and JavaScript are rejected.
 
 ## Coverage and verification status
 

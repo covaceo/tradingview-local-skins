@@ -14,4 +14,4 @@ The launcher uses a shell-free executable/argument array and no profile override
 
 Doctor output contains only eligible page counts and local port readiness. Injection output is limited to operation status and bounded selector/geometry/computed-background counts; it contains no DOM text, screenshots, URLs, IDs or account contents. No analytics, telemetry, permanent agent, scheduled job, autostart or copied app assets are included.
 
-Private observations, screenshots, recordings, paths, debugging IDs and receipts must stay outside versioned files. Synthetic test fixtures only. Report security issues through the private repository's designated owner; do not publish application state or credentials in an issue.
+Private observations, screenshots, recordings, paths, debugging IDs and receipts must stay outside versioned files. Synthetic test fixtures only. Report security issues privately using this repository's **Security → Report a vulnerability** feature. Do not post private application state, credentials, debugging IDs or screenshots in a public issue.
