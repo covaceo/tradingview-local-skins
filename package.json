@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-local-skins",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Reversible local cosmetic chrome skins for TradingView Desktop",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "bin": { "tv-skins": "./src/cli.js" },
+  "scripts": { "test": "node --test", "start": "node src/cli.js" }
+}

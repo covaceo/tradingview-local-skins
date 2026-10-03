@@ -1,0 +1,12 @@
+.qa/
+node_modules/
+.codex-builder-final.txt
+*.log
+screenshots/
+recordings/
+private/
+agent-receipts/
+NATIVE_FINDINGS.md
+BUILD_TASK.md
+PARENT_NATIVE_BLOCKER.md
+.DS_Store

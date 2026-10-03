@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "ocean",
+  "name": "Ocean",
+  "palette": {
+    "background": "#091a21",
+    "surface": "#122c37",
+    "border": "#2b5968",
+    "text": "#e1f5fb",
+    "muted": "#a6cbd8",
+    "accent": "#5dd8f3",
+    "hover": "#1d414d"
+  }
+}

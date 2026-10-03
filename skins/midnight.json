@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "midnight",
+  "name": "Midnight",
+  "palette": {
+    "background": "#0b1423",
+    "surface": "#19273a",
+    "border": "#465b78",
+    "text": "#e8effa",
+    "muted": "#b6c5dc",
+    "accent": "#79a8ff",
+    "hover": "#2a3a53"
+  }
+}

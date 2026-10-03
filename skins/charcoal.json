@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "charcoal",
+  "name": "Charcoal",
+  "palette": {
+    "background": "#151515",
+    "surface": "#202020",
+    "border": "#494949",
+    "text": "#eeeeee",
+    "muted": "#bbbbbb",
+    "accent": "#98baff",
+    "hover": "#303030"
+  }
+}

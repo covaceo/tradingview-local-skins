@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "forest",
+  "name": "Forest",
+  "palette": {
+    "background": "#0c1613",
+    "surface": "#14271f",
+    "border": "#2b6149",
+    "text": "#e5f5ec",
+    "muted": "#b0cfba",
+    "accent": "#61e8a5",
+    "hover": "#243f32"
+  }
+}

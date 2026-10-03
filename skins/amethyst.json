@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "amethyst",
+  "name": "Amethyst",
+  "palette": {
+    "background": "#151020",
+    "surface": "#251c36",
+    "border": "#55436e",
+    "text": "#f0e8fa",
+    "muted": "#c2b0d9",
+    "accent": "#bb8dff",
+    "hover": "#382a4d"
+  }
+}

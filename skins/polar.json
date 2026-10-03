@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "polar",
+  "name": "Polar",
+  "palette": {
+    "background": "#101722",
+    "surface": "#182234",
+    "border": "#41516a",
+    "text": "#e2e8f0",
+    "muted": "#aab8cd",
+    "accent": "#609cff",
+    "hover": "#263750"
+  }
+}
